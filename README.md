@@ -2,4 +2,4 @@
 # new commit
 # commit
 # Done
-to do is to be
+to dare is to do
